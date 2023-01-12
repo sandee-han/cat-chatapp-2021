@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494227452557",
+    "project_id": "chatsys-8e719",
+    "storage_bucket": "chatsys-8e719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494227452557:android:5a4127e46bf86ff4d568c4",
+        "android_client_info": {
+          "package_name": "com.example.chatsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494227452557-ltfrtdmp8o0in7n5oubeitap2tdkb18u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDqvtYx4N5lYzyZdwLslPKAPGHjxVOlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494227452557-ltfrtdmp8o0in7n5oubeitap2tdkb18u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
